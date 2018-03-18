@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">zakky_1202150099_studycase4</string>
+    <string-array name="nama_mahasiswa">
+        <item>Cristiano Ronaldo</item>
+        <item>Gareth Bale</item>
+        <item>Benzema</item>
+        <item>Lucas Vazquez</item>
+        <item>Marco Asensio</item>
+        <item>Kovacic</item>
+        <item>Casemiro</item>
+        <item>Toni Kroos</item>
+        <item>Luca Modric </item>
+        <item>Marcos Llorente</item>
+        <item>Dani Carvajal</item>
+        <item>Marcelo</item>
+        <item>Sergio Ramos</item>
+        <item>Raphael Varane</item>
+        <item>Nacho Fernandez</item>
+        <item>Francisco Alarcon</item>
+        <item>Keylor Navas</item>
+        <item>Kiko Casilla</item>
+    </string-array>
+</resources>
